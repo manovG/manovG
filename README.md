@@ -1,6 +1,5 @@
 - 👋 Hi there! I am Georgi Manov!
-- 👀 Since couple of years I am interested in price analysis on the financial markets and creating profitable quantitative trading systems.
-- 🌱 I’m currently learning Python primarily for data cleaning and API integration with my present and future trading systems.
+- 👀 I am interested in data analysis and quantitative trading 
 - 📫 You can reach me on my e-mail address: georgimanovbg@gmail.com
 
 <!---
